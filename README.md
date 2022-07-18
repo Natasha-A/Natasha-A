@@ -54,11 +54,7 @@
 
 ## ✉️ Contact 
 Feel free to contact me at: <a href="">natasha.ahammed@outlook.com</a>
-</div>
 
-<div>
-
-</div>
 
 
 
