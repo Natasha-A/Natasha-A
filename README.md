@@ -14,7 +14,7 @@
 * 💻 I enjoy learning about computer science and machine learning 
 * 🤖 I'm greatly interested in in the fields of Robotics and IoT
 * 🤓 I am currently learning `Javascript` and `React-Native`
-* 📚 Passiontate about teaching STEM and collaborative learing
+* 📚 Passiontate about teaching STEM and collaborative learning
 
 ## 🛠 My Skills 
 
