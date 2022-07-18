@@ -54,6 +54,9 @@
 
 ## ✉️ Contact 
 Feel free to contact me at: <a href="">natasha.ahammed@outlook.com</a>
+<a href="www.linkedin.com/in/natasha003">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 
 
