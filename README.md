@@ -4,8 +4,7 @@
 </div>
 
 <h1  align="center">
-<span style="font-weight:500">Hi! I'm Natasha Ahammed</span>
-<img src="https://64.media.tumblr.com/a77fe63f35eafbe14be38765babf1cb2/ec4eb63d77592970-8f/s1280x1920/cb3343c17d8b4e6010ca747520d078d3dba9ac25.gifv" width="40px"/></h1>
+<span style="font-weight:500">Hi! I'm Natasha Ahammed 👋</span>
 
 <br>
 
