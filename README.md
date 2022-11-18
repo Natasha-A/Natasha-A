@@ -12,7 +12,7 @@
 * 🏫 I am a second year student studying Computer Science
 * 💻 I enjoy learning about software development and machine learning 
 * 🤖 I'm greatly interested in in the fields of Robotics and IoT
-* 🤓 I am currently learning `Javascript` and `React-Native`
+* 🤓 I am currently learning `React-Native` and `SwiftUI`
 * 📚 Passiontate about teaching STEM and collaborative learning
 
 ## 🛠 My Skills 
