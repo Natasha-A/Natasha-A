@@ -9,7 +9,7 @@
 <br>
 
 ## 👩🏽‍💻 About me
-* 🏫 I am a second year student studying Software Development
+* 🏫 I am a third year student studying Software Development
 * 💻 I enjoy learning about software development and machine learning 
 * 🤖 I'm greatly interested in in the fields of Robotics and IoT
 * 🤓 I am currently learning `React-Native` and `SwiftUI`
